@@ -199,7 +199,3 @@ Pengujian keamanan mandiri (*self-testing*) telah dilakukan pada alur-alur krusi
 
 ---
 
-## 👨‍💻 Pengembang
-* **Nama Proyek**: Handika Helmet Store (Web Toko Handika)
-* **Tahun Pengembangan**: 2026
-* **Status**: Siap Uji & Presentasi Sidang Dosen
